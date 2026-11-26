@@ -1,0 +1,1177 @@
+COMPONENTS
+FOR STANDARD GAMES
+
+
+
+
+      21 Base Action         3 Map Mats
+          Cards*
+                                   22 Control
+                                   Cubes
+                                   1 Science
+                                   Cube
+                                   1 Industry
+                                   Cube
+                   1 Resource      1 Military
+1 Monuments                        Cube
+   Board           & 1 Invader
+                      Board
+
+21 Base Action Cards*
+• 12 Monument cards
+   2x Novastage
+   2x Quantum Barterdeck
+   2x Orbit Urbis
+   2x Data Vault
+   2x Orbital Fluxway
+   2x RSS Mars 1
+• 5 Structure cards
+   Training Facility
+   Research Laboratory
+   Solar Harvester
+   Holo-Muse
+   Mining Colony
+• 2 Conquest cards
+• 2 Call for Tribute cards
+2
+MODULE AND CAMPAIGN COMPONENTS
+                                    10 Legion
+                                        Cubes
+                                    12 Horde
+                                       Cubes
+33 Scenario Cards   8 Additional     6 Probe
+                      Map Mats          Discs
+                                      8 Tribe
+                                        Tiles
+
+
+
+
+ 3 Double-
+   sided   20 Monument          21 Special
+  Leader       Tiles
+                               Action Cards
+   Cards
+
+
+
+
+       Repairs Card
+       (Campaign 3)       6 Modular
+                         Invader Mats
+
+
+
+
+   Trusk
+Cooperation        Tribe           Padlock Card
+   Card        Bonuses Card         (Campaign 4)
+(Campaign 4)    (Campaign 4)
+
+
+                                                3
+INTRODUCTION
+There were close calls, but the Roman Empire en-
+dured. Guided by the honor and traditions of the
+Ancients, Rome survived long enough for you to shape
+its future. No longer will the Eternal Empire settle for
+regional power. Under your rule, Rome will rise to
+global dominance, and then, who knows—even the sky
+may pose no limit.
+
+Manage the Empire’s resources, strengthen its
+economy, lead armies to glorious conquest, and
+construct magnificent monuments to honor your
+ancestors. But beware—enemies gather at your
+borders, waiting for a chance to strike. Can you lead
+Rome to greatness while preserving the legacy of the
+Ancients?
+
+OVERVIEW
+Astra Imperium is a fast-playing resource
+management game for one. Each turn, you’ll draw
+cards and make tough decisions about how to
+use them. Gather industry, science, and military
+resources to conquer locations, construct powerful
+structures, and build monuments that honor the
+Ancients and earn Veneration Points (VP). But
+stay prepared—enemy invasions grow stronger
+each round, and Rome must be defended for 3
+rounds before you can total your final score and
+determine how well you played.
+
+Beyond standalone games, Astra Imperium also
+features 5 unique campaigns that dramatically
+change gameplay and encourage new strategies.
+Lead Rome through its rise to power, periods
+of decline, interstellar expansion, planetary
+settlement, and more.
+
+Play campaigns individually, or tackle them
+in sequence and track your Reputation in Epic
+Campaign mode.
+4
+SETUP
+The instructions below are for the standard game—the
+most basic way you can play Astra Imperium. You will
+not need any of the Module or Campaign components
+for this, so they can be returned to the box for now.
+You must still follow these steps when playing with
+any of the optional Modules or Campaign Mode, but
+those also require additional steps (see pg. 16).
+ 1. Place out the Monuments Board, standard
+ Map mat*, Resource Board and Invader board
+ from left to right, as shown, then place a Control
+ Cube on the Rome           space on the map. Leave
+ space to the right of these boards for the Structure
+ cards you will later be building.
+ *For standard games, you can use either the Earth
+ 2250, Galaxia Nova (A), or Constantius (A) Map mat,
+ depending on the type of thematic setting you want.
+ 2. Shuffle the Action Cards and place them into a
+ face down draw deck, leaving space next to it for a
+ discard pile.
+ 3. Place the Science, Industry, and Military
+ Cubes on the “1” spaces of their matching
+ resource on the Resource Track.
+ 4. Place the Control Cubes in a nearby supply.
+
+
+
+
+                                                   5
+HOW TO PLAY
+Each game of Astra Imperium is played over 3
+rounds. Each round consists of several turns, and
+each turn you must follow these 3 steps:
+    1. Draw 3 cards
+    2. Play 1 card for either its Resources or Action
+    3. Discard all drawn cards
+
+1. DRAW 3 CARDS
+Draw 3 cards from the Action card deck into your
+hand. If the deck has only one or two cards, draw
+however many remain. If the deck is empty when
+you reach this step, proceed to end of round.
+
+
+
+
+2. PLAY A CARD
+Choose ONE of the cards in your hand to play, and
+play it for either its Resources or its Action.
+
+            If played for Resources, gain the
+            Resources shown in the card’s upper left
+             corner by moving the
+             corresponding cubes
+             on your Resource
+             Board.
+
+6
+If played for its Action, use
+the Action shown in the lower
+part of the card. Actions vary
+from card to card, and there
+are 4 basic types:
+1. Monument Actions
+                      These require you to PAY
+                       the Resources shown at the
+                       bottom of the card in order
+                       to add a Control Cube to the
+                     specified Monument on your
+                     Monument Board.
+
+Example: the card shown
+above costs 3 and adds
+a cube to the Quantum
+Barterdeck Monument.
+
+Once you’ve gained 2 Control Cubes on a
+Monument, it has been built, and you gain the
+benefit of that Monument for the rest of your
+current game. The basic and modular Monument
+effects are detailed on page 16.
+2. Conquer Actions
+                       Conquering allows you to
+                       take over new locations on
+                       the map. This will help you
+                       earn VP     and potentially
+                     help you deal with Invasions
+                     at the end of each round.
+To Conquer, you must PAY Military      equal to the
+number of Control Cubes you already have on the
+map ( just 1 if you only control Rome), and then add
+a Control Cube to a new location of your choice.
+
+
+
+
+                                                     7
+Each time you add a Control Cube to the map, you
+gain 1 Resource of the type shown on the location
+you conquered.
+
+Example: Let’s say you already have one location
+conquered in addition to Rome. You could then take
+the Conquer Action, paying 2 , and adding a cube
+to the location shown below, granting you 1 .
+
+
+
+
+3. Tribute Actions
+                      There are 2 Call for Tribute
+                      cards in the Action Card
+                       deck, which each grant you
+                       a number of one type of
+                    Resource depending on how
+                    many locations you currently
+control (either   or ).
+
+Example: If you played
+the card shown above
+while controlling 3
+locations on the map
+(including Rome), you
+would gain 3 .
+
+
+
+
+8
+4. Build Actions
+                       When you use a Structure
+                       Card’s action, you must pay
+                       the Resources shown in its
+                       bottom PAY section, and the
+                     card is then added to your row
+                     of built Structures to the right
+of the Invader board. It will remain there for the rest
+of the game, and cannot be discarded or returned to
+your Action Deck.
+Once built, a Structure card grants you either:
+                2 VP at game end, or...
+                 An ongoing bonus that gives you
+                 more of a Resource every time you
+                 gain any number of that Resource
+(in this case, +2 every time you gain on a given
+turn).
+If you are ever unable to pay the cost of a given
+card’s Action, you may not take that Action. This
+may result in you being forced to gain Resources
+from a card on some turns.
+3. DISCARD CARDS
+Discard all cards from your hand, including the
+played card (unless you built a Structure card).
+
+
+
+
+                                 DISCARD
+
+
+
+
+                                                     9
+END OF ROUND
+If the Action Deck is empty at the start of your turn,
+meaning there are no cards you can draw for this
+turn, the round immediately ends.
+You must then face the Invasion for the current
+round, shown on the Invader Board ( in round 1,
+   in round 2,   in round 3).
+Each Invasion requires you to either spend Military
+or lose conquered locations:
+          Act I: Pay 2  OR remove 1 Control Cube
+          from the map, losing 1 location.
+
+          Act II: Pay 3 OR remove 1 Control
+          Cube from the map, losing 1 location.
+
+          Act III: Pay 5 OR remove 2 Control
+          Cubes from the map, losing 2 locations.
+
+
+Whenever you don’t have enough        to fully cover
+an Invasion’s Military cost (you cannot go below 0
+  ), you must instead lose Control from locations
+on the map. These can be re-conquered later.
+If ever you lose control of Rome, you immediately
+lose the game.
+After resolving an Invasion, place a
+Control Cube on the Invasion’s number
+space to show that the round is
+complete. Then, shuffle the discard pile and place
+it face down again to form the Action Deck for the
+next round.
+Reminder: Built Structures do not get shuffled back
+into the deck—they remain in play until the end of the
+game.
+After resolving the third round’s invasion, the game
+ends.
+10
+GAME END
+The game ends immediately in a loss if you are ever
+forced to lose the Rome    location.
+Otherwise, the game ends after you resolve the
+Invasion at the end of the 3rd round. You then total
+your Veneration Points (VP)      as follows:
+ • 1   for every controlled location, including
+ Rome.
+ •    as shown on all your built Structure cards.
+ •    as shown on any completed Monuments.
+Reminder: Monuments must have 2 Control Cubes on
+them to be considered completed!
+Compare your VP score to the table below to
+see how you stack up against the great ancestral
+Roman Emperors:
+
+
+             VP     Emperor Rank
+           1-9      Nero
+          10-11     Tiberius
+          12-13     Marcus Aurelius
+          14-15     Julius Caesar
+           16+      Augustus
+
+Example: At the end of the
+game you have control of 5
+locations in total, earning 5
+    for controlled locations.
+You’ve additionally built the
+Solar Harvester, as pictured
+here, which grants you 2 .
+
+
+
+                                                    11
+Example Cont.
+                Finally, you’ve completed 2
+                monuments, the Datavault and the
+                Orbital Fluxway.
+
+
+                The Datavault earns 4      , and the
+                Orbital Fluxway earns       equal to
+                the locations you control, which in
+                this case would be another 5      .
+
+                All of this taken together would be:
+                   5     +2     +4     +5
+                   For a grand total of 16
+
+A reference of how each monument behaves and
+is scored is found on the next few pages. For the
+standard game, use the basic monuments which
+are printed on the Monument Board. There are also
+tiles for the basic Monuments for randomization.
+For added variety and challenge, you can also add
+any of the following modules or variants described
+on the following pages.
+
+BASIC & MODULAR MONUMENTS
+When playing a standard game, only the basic
+Monuments on the Monument Board are needed,
+but later you can choose to replace any of them
+with one of their two variants by covering the basic
+Monument with one of its corresponding Modular
+Monument Tiles. You can randomize them or
+choose them however you like!
+You can even choose to use Modular Monument
+Tiles when playing any of the Campaign games,
+and they can be switched up from game to game.
+Each Monument has an end game scoring benefit,
+and some also give you an ongoing ability.
+12
+To play with Modular Monuments, gather the 18
+standard Monument tiles—3 for each Monument
+on the Monument board. Separate the tiles by
+Monument and then either select or randomly pick
+one of the 3 tiles for each Monument, placing it
+over the corresponding Monument on the board.
+
+Novastage
+     Basic              Variant I           Variant II
+
+
+
+
+     2  . Also,        When you choose         3   . Also,
+      and are          to gain Resources         and are
+ interchangeable          from a card,      interchangeable
+  (whenever you           also gain the      (whenever you
+ gain/spend one,        Resources from      gain/spend one,
+  you may gain/         another card in      you may gain/
+ spend the other         your hand that     spend the other
+     instead).                turn.             instead).
+
+
+
+Orbit Urbis
+     Basic              Variant I           Variant II
+
+
+
+
+ 1    for each built   5     minus 1          1    + the
+   Structure you         for each built       value of each
+ have at the end of      Structure you        of your built
+     the game.         have at the end of    Structures (an
+                           the game.        additional time).
+
+                                                           13
+Quantum Barterdeck
+     Basic             Variant I            Variant II
+
+
+
+
+      equal to the    1    for each set       3    for each
+   Resource you        of 3 Resources      Resource that you
+ have the LEAST of    of one type (e.g.,    have exactly 0 of
+  at the end of the   if you choose         at the end of the
+       game.           and have 7 ,              game.
+                       you earn 2 ).
+
+
+
+Datavault
+     Basic             Variant I            Variant II
+
+
+
+
+ 4    at the end of   2    for every 3       2    for each
+     the game.         Control Cubes          completed
+                        you have on           Monument
+                      Monuments at           orthogonally
+                         game end.          adjacent to the
+                                               DataVault.
+
+
+
+
+14
+Orbital Fluxway
+     Basic            Variant I            Variant II
+
+
+
+
+   1   for each       4     provided       3 . When you
+   location you     Rome is the only       gain control of a
+ control at game       location you        location, gain 2
+ end (in addition   control at the end    Resources of your
+  to the    they       of the game.         choice instead
+ normally give).                            of just the one
+                                                shown.
+
+
+RSS MARS I
+     Basic            Variant I            Variant II
+
+
+
+
+   2 . Ignore          3 . During              After each
+ invasions at the   Invasions you may        Invasion, take
+end of each round   pay any one type of     a free Conquest
+ (you lose no ,      Resource to cover      action, adding a
+  nor control of     the Invasion’s        Control Cube to a
+    locations).            cost.          location at no cost.
+
+
+
+
+                                                          15
+LEADERS MODULE
+                    At the beginning of the game,
+                    you may choose to take on the
+                    role of one of the 6 Leaders.
+                    Select one of the 3 double sided
+                    Leader Cards, flip it to the
+                    Leader of your choice, and keep
+                     it in your play area.
+                    Each Leader possesses a
+                    Strength and a Weakness,
+                    both of which must be applied
+              throughout the game.
+You may also play with the Leaders Module in
+Campaign Mode. When in a campaign, Leader
+effects are applied after any special rules of the
+current scenario card, and the scenario card takes
+precedence if any effects conflict.
+Note: If playing as Kallax Calla, note that you must
+include the special Edict of Kallax Calla Action card.
+MODULAR INVADER CARDS
+These cards are required to
+play Campaign 5, but you
+can also use them in one-off
+games for variety. Select one
+randomly, or choose one to
+replace the basic Invader
+board.
+Consult Campaign 5 for
+more details on how to play
+using a variant Invader
+(see pg. 30). They often
+change the game up quite
+a bit and may require use
+of specific alternate maps,
+Monuments or Action Cards.
+
+
+16
+CAMPAIGN MODE
+Astra Imperium features 5 different campaigns,
+each consisting of its own set of Scenario Cards,
+and some requiring you to use specific Map mats
+and/or Invader cards.
+You can play these campaigns individually, and can
+also play in Epic Campaign mode, where you play
+through all 5 campaigns in order, using a special
+scoring system to track your progress from one
+campaign to the next.
+                  Scenario Cards
+                       A: Campaign Title - all Scenario
+       FRONT           Cards for a given campaign share
+ B               A     the same title.
+                       B: Campaign and Stage Numbers
+ C                     - each campaign has multiple
+                       stages, meaning you will play
+                       multiple games in it. (e.g., stage 2
+                       of campaign 3 is labeled III.II).
+ D                     C: Scenario Name & Story - this
+                       tells you the name of the scenario.
+                       In Campaign #1, the scenario name
+                       is thematically your current level
+                       of success as a leader.
+ E
+                       D: Special Rules/Conditions - these
+                       will change how you play the
+                       current game in some way.
+                      E: VP Goals - Each scenario has 3
+                      possible VP Goals, one for Easy,
+        BACK          Medium, and Hard mode.
+A: The back of the card will have            A
+the same Stage Number and
+scenario name shown on it.
+B: Victory Result - provides story                       B
+and tells you which Scenario Card
+to look for next if you won.
+C: Defeat Result - provides story
+and tells you which Scenario Card                        C
+to look for next if you lost.
+Note: these are slightly different
+for scenarios 3 and 4.
+                                                          17
+SINGLE CAMPAIGNS
+To play a single campaign, first choose which
+campaign you want to play, read its rules, and setup
+the game as usual with the instructed changes.
+ • Campaign 1: Rise of the Empire (pg. 22)
+ • Campaign 2: Fall of the Empire (pg. 22)
+ • Campaign 3: A Desperate Journey (pg. 23)
+ • Campaign 4: Constantius (pg. 27)
+ • Campaign 5: War of all Wars (pg. 32)
+These campaigns tend to increase in complexity,
+so we recommend starting with Campaign 1 unless
+you’re already very familiar with the game. We’ll
+use Campaign 1: Rise of the Empire in our examples.
+Additionally, find all Scenario Cards for your
+chosen campaign (by name), and arrange them
+into a stack, ordered by stage number, with Stage I
+on top, as pictured below.
+
+
+
+
+                The top card of this Scenario stack
+                is the active Scenario for your
+                current game—every campaign
+                starts with the Stage I Scenario
+                card.
+                 At the beginning of each game of
+                 your campaign, read the italicized
+                 story text on the front side of the
+active scenario card. You must follow any Special
+Rules dictated by the active scenario card during
+the game.
+At the bottom of the card you’ll see 3 different VP
+18
+   Goals for the 3 different difficulty settings—Easy,
+Medium, and Hard. You must choose a difficulty
+you want to attempt, and use that same difficulty
+level for the entire campaign (e.g., if you choose
+Easy, you will be trying to reach the left VP Goal on
+each Scenario Card for that campaign).
+Scenario Victory and Defeat
+Each game ends after 3 rounds as usual, with your
+Scenario score being calculated at that point. If you
+meet or exceed your current Scenario’s VP Goal,
+you achieve victory and will follow the Victory
+Result on the back of the Scenario Card. Otherwise,
+you will follow the Defeat Result.
+Flip the Scenario Card over to read the result!
+Example: Stage I of Rise of the Empire
+
+
+
+
+   Your next Scenario         Your next Scenario
+ Card would be the Stage    Card would be the Stage
+    II Emperor card.           II Dictator card.
+
+Instead of directing you to another Scenario Card,
+some results (usually in the last scenario) end the
+campaign and provide you with a resolution. It may
+be any of the following:
+ • Overwhelming Victory • Narrow Defeat
+ • Victory                   • Defeat
+ • Narrow Victory            • Overwhelming Defeat
+These are also used for scoring in Epic Campaign
+Mode, but for a single campaign, they simply indicate
+how well you did.
+                                                   19
+EPIC CAMPAIGNS
+In Epic Campaign mode, you will play through
+all 5 campaigns in order from 1 to 5. After each
+campaign, you will record a running Reputation
+score, and the goal is to have as high of a
+Reputation as possible at the end of all campaigns.
+You start an Epic Campaign with a Reputation
+Score of 0. Your Reputation will go up or down
+after each campaign, and can end as either positive
+or negative.
+Each time you complete the final scenario of a
+campaign, use the table below to determine the
+change to your Reputation score:
+
+     Overwhelming Victory               +4
+                  Victory               +2
+           Narrow Victory               +1
+            Narrow Defeat               -1
+                   Defeat               -2
+      Overwhelming Defeat               -3
+
+To determine your results for Campaign 3, which is
+scored slightly differently, use the below table.
+
+     19+          Overwhelming Victory
+     17-18        Victory
+     16           Narrow Victory
+     13-15        Narrow Defeat
+     <13          Defeat
+     If you did not reach Constantius, it is an
+     Overwhelming Defeat with any
+     amount of .
+
+
+20
+Keep a running tally of your Reputation after the
+final scenario of each campaign. Continue to the
+next Campaign even if your previous Campaign
+ended in any sort of defeat.
+At the end of the 5th and final campaign, record
+your final Reputation score in the table on the last
+page of the rulebook to keep track of your results
+and compare results between all of your Epic
+Campaigns!
+You can also try different difficulty settings (using
+a difficulty for the entire Epic Campaign), or use
+Leaders or Modular Monument Tiles to see how
+well you can do under different conditions.
+Note: If a scenario tells you to use specific Monument
+Tiles or Invader cards, you MUST use those specific
+components.
+
+
+CAMPAIGN-SPECIFIC RULES
+Each campaign introduces some rules changes for
+its individual scenarios, and some will also require
+specific components.
+In general, you can use the Leader Module in any
+campaign, as well as the Modular Monument tiles.
+Use the regular Invader board unless instructed to
+use a specific Invader card.
+Each of the following sections introduces the
+different campaigns’ stories, and gives more
+detail about how they are played. Campaigns 1 &
+2 have the fewest rule changes, and can be played
+following the gameplay rules for Single Campaigns
+on pg. 18. Each other Campaign (3-5) has its own
+special rules that get added to standard play.
+
+
+
+
+                                                    21
+Campaign 1: Rise of the Empire
+There were many who doubted, but the Roman
+Empire persisted through the millennia. Now, we set
+our sights on something greater: global dominance.
+The “Rise of the Empire” campaign chronicles your
+journey as the young emperor of Rome, striving to
+stretch the Empire’s reach across the entire planet, all
+while honoring the Ancients by constructing glorious
+monuments—as is our custom. Complete four stages of
+branching scenarios to see if you can attain victory as
+a Tyrant, a Dictator, or a venerable Emperor.
+Use the “Earth 2255” Map mat for this campaign.
+Any additional Special Rules needed for Campaign
+1 are found on the Scenario Cards. Play using the
+normal gameplay and campaign rules otherwise.
+This Campaign has 9 Scenario Cards all labeled as
+“I._” where _ is the number of the Scenario. Start
+with the Scenario card labeled I.I.
+Campaign 2: Fall of the Empire
+We achieved our goal of becoming a global empire, but
+at great cost. We stretched ourselves thin. Power and
+excess have gone to the heads of our leaders. Marble,
+though preserved for millennia, begins to crumble.
+“Fall of the Empire” takes you through a challenging
+series of scenarios. Crises like poverty, inflation, decay
+and corruption threaten our very existence. With
+each stage of the Fall campaign, VP requirements get
+easier, but circumstances get harder as you deal with
+a faltering empire.
+Use the “Earth 2255” Map mat for this campaign.
+Any additional Special Rules needed for Campaign
+2 are found on the Scenario Cards. Play using the
+normal gameplay and campaign rules otherwise.
+This Campaign has 7 Scenario Cards all labeled as
+“II._” where _ is the number of the Scenario. Start
+with the Scenario card labeled II.I.
+
+22
+Campaign 3: A Desperate Journey
+Decades of hubris and civil war have led to the
+unthinkable: the destruction of our planet. You must
+lead an entire empire across the stars in a desperate
+attempt to find a new habitable planet to call home.
+In the “A Desperate Journey” campaign, we abandon
+the normal map and instead guide the Empire’s fleet
+through space on multiple modular maps. Move the
+fleet from planet to planet, stopping only long enough
+to regroup and make repairs before taking off again.
+Interact with exciting (and optional!) dexterity
+mechanics to launch probes in search of a new
+habitable destination.
+Setup
+ 1. Gather the 4 Scenario cards labeled “III._” and
+ place the card labeled III.I on top.
+ 2. Set up the Monument Board and Resource
+ Board as in the standard game. Start with 1 of
+ each resource as usual.
+ 3. Return the Invader Board to the box and
+ place the “Repairs” card in its place next to the
+ Resource Board. Gather the 6 Probe discs.
+ 4. To construct the Map, gather the 5 Map
+ mats labeled “Campaign 3” in their bottom left
+ corners. Place the Constantius mat on the table
+ horizontally, leaving space for 4 cards below
+ it. Shuffle the 3 mats, each picturing 2 planets
+ and place them in a column below Constantius.
+ Finally, place the Roma Burning mat at the
+ bottom of the column and place a control cube on
+ the planet on that mat, representing the current
+ location of your civilization ship.
+ 5. Gather the 21 standard Action cards and
+ remove the 2 “Call for Tribute” cards along with
+ the 2 “Conquest” cards. Add the 2 “Take off” cards
+ and “Launch Probe” cards to the deck and shuffle
+ the cards together to form your draw deck.
+                                                     23
+Action Card changes       Map mats, Repair Card,
+                          Probe discs
+
+
+
+
+Special Action Cards
+TAKE OFF cards - When played for its Action, these
+cards allow you to move your civilization ship to
+the next planet following the dotted path. To do so,
+you must first pay the cost indicated in the box on
+the dotted line you are about to travel along, then
+you move your ship to the next planet, gaining the
+resource printed on the planet.
+When traveling to the final planet, Constantius,
+you do not have to pay any cost and you don’t
+receive any resource after making the trip, but this
+path can only be travelled during the 4th and final
+Scenario of the campaign.
+At the end of each Scenario, you gain the indicated
+number of VP next to the final planet you ended on.
+Launch Probes cards - When played for its Action,
+these cards allow you to attempt to launch a probe
+toward Constantius to better understand your
+24
+future homeworld.
+To do so, first pay 2  per probe you have already
+landed on Constantius this Scenario (therefore the
+first probe has no added cost).
+Then place a Probe disc on the planet on which
+your civilization ship currently sits and propel
+it toward Constantius with a flick of your index
+finger. If the Probe disc ends its travel so that
+ANY part of the Probe disc is in contact with
+Constantius, the launch is successful and the Probe
+disc is then placed on the current Scenario card.
+If your Probe token does not land on Constantius
+but ends near it, you can spend a resource of your
+choice for a trajectory correction, placing a Control
+cube touching the Probe disc in the direction
+of Constantius. Continue taking trajectory
+corrections, paying a resource and placing a cube
+until the cube you just placed comes in contact
+with Constantius. The launch is then considered
+successful and the Probe disc is placed on the
+current Scenario card.
+Note, trajectory corrections are optional. A Probe
+launch can also end in a failure, though you must
+still pay the initial cost to launch the probe.
+Each successfully launched Probe, represented by
+a Probe disc on the Scenario card, provides either 1
+or 2 VP (see that scenario’s card).
+VARIANT (WITHOUT DEXTERITY) - If you prefer
+not to use this flicking dexterity mechanic, you can
+choose to instead pay any 3 resources (in addition
+to the initial   cost) to succeed the launch.
+End of Round - The Repairs Card
+At the end of each of the 3 rounds (acts) of play
+during each Scenario, you must repair your
+civilization ship (instead of facing an Invasion as in
+the standard game), as shown on the Repairs Card.
+
+                                                   25
+                     Act I: Either pay 2 or discard
+                     a built Structure card, shuffling
+                     it back into the draw deck.
+                     Act II: Either pay 3 or
+                     remove a Control cube from a
+                     Monument on the Monument
+                     board.
+                     Act III: Either pay 5 or
+                     remove 2 Control cubes in
+                     total from Monument(s) on the
+                     Monument board.
+You must pay the entire cost or take the other
+option. If you are not able to pay either of the
+costs in full for the current Act, instead lose all
+remaining and continue on to the next Act.
+Scenario Completion
+The first 3 Scenario cards for this campaign list 3
+different VP goals for each difficulty level, referred
+to as the “Low VP”, “Middle VP” and “High VP”
+values. To complete the Scenario successfully,
+you must earn at least the “Low VP” value shown
+for your chosen difficulty level. If you do not
+earn this level of VP, you lose the campaign in an
+Overwhelming Defeat. Additionally, each Scenario
+has a printed goal that must be completed in order
+to successfully complete the Scenario.
+If you earned a number of VP equal to or exceeding
+the “Low VP” , you have successfully completed
+the Scenario. Compare your final VP value to these
+three printed values for your chosen difficulty
+level and flip the Scenario card to its reverse side,
+reading the box corresponding to your achieved VP
+level, which will provide an effect during a future
+Scenario of this campaign. Rotate the card so that
+your achieved level is right-side up and place the
+card near the Scenario deck to remember this
+effect when it comes into play.
+
+26
+For the final Scenario, if you do not Take Off to
+Constantius or reach the printed VP value for your
+chosen difficulty level, you lose the campaign in an
+Overwhelming Defeat
+Campaign 4: CONSTANTIUS
+The Empire’s fleet reached Constantius, the distant
+planet identified by our scientists as our best hope
+for a new home. Not long after touching down,
+we made two despair-inducing realizations. First,
+this world and its landscapes are less familiar and
+more unforgiving than we anticipated. The second
+discovery is even more unsettling—we are not alone
+on this planet. A sophisticated alien society known
+as the Trusks is initially hostile to our presence.
+Normally, war would be Rome’s solution. But in
+our journey of desperation across the stars, we’ve
+turned over a new leaf. Your mandate as Emperor is
+to somehow engineer peace and cooperation between
+Rome and the various Trusk factions. You have 4
+years. Can you manage the tensions and create a
+cohesive civilization?
+Setup
+ 1. Gather the 4 Scenario cards labeled “IV._” and
+ place the card labeled IV.I on top.
+ 2. Set up the Monument Board and Resource
+ Board as in the standard game. Start with 1 of
+ each resource as usual.
+ 3. Return the Invader Board to the box and place
+ the 2-sided “Tribe Bonuses” card in its place next
+ to the Resource Board.
+ 4. Take the Constantius Map mat and place it on
+ the table. Put 2 Control cubes on the card, one
+ on each        space. Shuffle the 8 Tribe tiles and
+ randomly put one tile face down on each Tribe
+ space      on the map. Reveal the 4 Tribe tiles
+ adjacent your Control cubes.
+
+                                                  27
+Map and Tribes setup
+
+
+
+
+ 5. Gather the 21 Action cards and separate out
+ the 12 Action cards with a Monument action.
+ Return the 2 “RSS Mars 1” cards to the box, and
+ shuffle the remaining 10 Monument Action cards,
+ drawing one Monument Action card and adding it
+ to the other 9 non-Monument Action cards. Also
+ add the 2 “Adapt and Learn” Action cards to the
+ draw deck, forming a deck of 12 Action cards.
+ 6. Place the remaining 9 Monument Action cards
+ under the Padlock card. These cards form the
+ “locked deck”.
+
+Action cards and locked deck
+
+
+
+
+28
+ 7. Place the “Trusk Cooperation” card on the
+ table near the Scenario deck and place a Control
+ cube on the lowest space. You will advance along
+ the track on this card when you successfully
+ complete the Scenarios.
+   Trusk Cooperation card and locked deck
+
+
+
+
+Note: At the beginning of Scenario 1, your locked
+deck should contain 9 Monument cards but this
+number will change in subsequent Scenarios.
+Each Scenario card will have written instructions
+on how to set up the locked deck and how many
+Monument cards will start in your draw deck.
+Special Action Card Rules
+ADAPT AND LEARN cards - You can use these
+cards’ actions to unlock additional cards from your
+locked deck. To do so, pay 10 minus the number
+of cards still in the locked deck (so the first time
+you take this action during Scenario I, it will cost
+(10-9) = 1 ). Then draw a random card from the
+locked deck and add it to your discard pile.
+CONQUEST cards - When taking the Conquest
+action, you pay the usual cost of 1  for each
+Control cube currently on the map. After paying
+the cost, you may place a new Control cube on any
+space adjacent to one of your Control cubes already
+on the map. Flip any adjacent Tribe tile that is not
+already flipped.
+The Tribe tiles corresponding to spaces in which
+you have Control cubes will provide optional
+bonuses at the end of the round and have no
+immediate effect.
+                                                 29
+Changes to Gameplay
+Each Scenario is played over a series of 4 rounds
+instead of the usual 3. Your draw deck starts out
+with only 14 cards in the first Scenario but can
+grow as each Scenario continues.
+At the end of each of the 4 rounds, you have the
+opportunity to use the Tribe bonus on all of your
+active Tribe tiles (a Tribe tile is active when you
+have a control cube on the map in the space linked
+to that Tribe tile). After round 1, you can gain all
+bonuses without paying a
+cost. After each other round,
+you can elect to pay the
+resource cost shown on the
+Tribe Bonuses card for the
+corresponding round to gain
+all Tribe bonuses. The front
+side of the Tribe Bonuses
+card is used for the first 2
+rounds and is then flipped to
+show the costs for rounds 3
+and 4. These Tribe Bonuses
+are described in more detail
+on the next page.
+After round 4 is complete and you have optionally
+taken your tribe bonuses, total your score as
+follows:
+ • Gain 2    for every controlled location,
+ including the starting 2 locations.
+ • Gain     as shown on all your built Structure
+ cards.
+ • Gain as shown on any completed
+ Monuments.
+ • Lose 1     for each card still in the locked deck.
+Compare your earned VPs to the printed values
+for your selected difficulty level. For each level,
+
+30
+the Scenario card depicts 2 values, a “Low VP”
+value and a “High VP” value. If you have met either
+of these values, flip over the card and read the
+corresponding box of text. Additionally, move the
+Control cube on the Trusk Cooperation card the
+indicated number of spaces forward: 2 for reaching
+the High VP, 1 for reaching the Low VP, and no
+spaces if you didn’t meet either. Continue then to
+the next Scenario.
+Tribe Bonuses
+
+
+   Double your current           Gain 2 of the
+   amount of the given        depicted resource.
+     resource (after         Place 3 Action cards
+   paying any depicted       of your choosing on
+    cost on the Tribe       the top (T) or bottom
+     Bonuses card).            (B) of your draw
+                               deck next round.
+
+
+   Move a cube placed
+     on the Map to
+                             Move up to 2 placed
+    any space on the
+                                cubes on the
+   Monument Board.
+                              Monument Board
+                             to any other space
+                             on the Monument
+   Draw the top card               Board.
+     from the locked
+    deck and add it to
+   your draw deck for
+       next round.
+After completing the final Scenario and moving the
+Control cube a final time on the Trusk Cooperation
+card, flip the Trusk Cooperation card and read the
+section corresponding to the number printed on
+the space on which your Control cube ended.
+
+                                                31
+Campaign 5: War of All Wars
+The Empire’s new posture of peace is short-lived.
+It turns out that we were not the only nation to
+escape the dying Earth. Your old rivals have landed
+on Constantius and they are not interested in
+cooperation. They attack the Empire’s cities and
+outposts with a ferocity not known since the days of
+the Ancients. The Aegis Hellenarcy. The Dawnward
+Crown. The Gallax Hordes. Even the Alpsbreaker
+Armada. All are converging on Rome, and it’s your
+job as Emperor to save your people. In each stage of
+the War of all Wars campaign, you must face a new
+invading force with its own unique mechanics. Can
+you navigate this treacherous war and maintain
+the legacy of Rome? And if you succeed at that, can
+you finally extend the Empire’s reach across the
+galaxy, fulfilling Rome’s destiny to become the Astra
+Imperium: the Empire of the stars?
+Setup
+ 1. Gather the 9 Scenario cards labeled “V._” and
+ place the card labeled V.I on top.
+ 2. Set up the Monument Board and Resource
+ Board as in the standard game. Start with 1 of
+ each resource as usual.
+
+
+
+
+                               Required
+                               Map mat
+
+ 3. Gather the 6 Modular Invader mats and set
+ aside the Gallax Horde. For the first 3 Scenarios
+32
+ of this campaign, randomly select one of the 5
+ remaining Modular Invader mats, being sure to
+ select a different Invader for each Scenario. For
+ Scenario 4, select the Gallax Horde. Place the
+ selected Invader mat next to the Resource Board
+ in place of the normal Invader Board, which is
+ returned to the box.
+ 4. Use the required Map mat, as printed on the
+ chosen Modular Invader mat.
+ 5. Read the additional text on the selected
+ Modular Invader mat and follow any additional
+ setup rules and note any changes to gameplay.
+ Flip the Modular Invader mat to its opposite side
+ showing the Acts and additional rules.
+ 6. Follow any additional Special Rules that are
+ printed on the current Scenario card.
+
+Example setup with the Nordhelm Ascendancy
+
+
+
+
+Gameplay
+Each Scenario of this campaign is played as a
+standard game with only the changes to the rules
+written on the Modular Invader card and the
+current Scenario card.
+At the end of each Scenario, total your score (with
+any adjustments from the Modular Invader card)
+and compare it to the VP requirement for your
+
+                                                   33
+chosen difficulty on the Scenario card. If you met
+this VP value AND fulfilled any extra win conditions
+on the Scenario card and/or the Modular Invader
+card, you have won the Scenario and may flip the
+Scenario card to read the Victory text, continuing/
+ending the campaign as usual.
+If you did not meet the VP requirement or failed
+to fulfill any additional victory requirements from
+the Scenario and/or Modular Invader card, flip the
+Scenario card to read the Defeat text, continuing/
+ending the campaign as usual.
+Epic Campaign results
+If this was the finale of an Epic Campaign, adjust
+your reputation as normal and record it in the table
+on the next page. Next time, perhaps try an Epic
+Campaign with a different leader or on a different
+difficulty setting and see how your final results
+compare.
+
+
+
+
+CREDITS
+Publisher: Best with 1 Games
+Game Design: Raphael Rochedix
+Development: Joe Klipfel
+Art: Cole Munro-Chitty
+Graphic Design: Drew Corkill
+Rulebook Editing: Jeremy Rozenhart &
+			               Dan Wackwitz
+Playtester: Maarten van Zuilichem
+
+
+
+34
+Epic Campaign Table
+
+ Campaign #
+
+ Reputation
+ Change       Notes
+
+
+
+
+                      35
+

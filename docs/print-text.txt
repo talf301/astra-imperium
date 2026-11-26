@@ -1,0 +1,836 @@
+                                       I.I        RISE OF THE EMPIRE       I.II        RISE OF THE EMPIRE
+
+                                      EMPEROR                              EMPEROR
+                                      The role of a young emperor of       The patricians ask for new baths,
+                                      Rome is not an easy one. You car-    new streets, new statues in the
+                                      ry the hopes of an entire genera-    gardens. It’s difficult to heed all
+                                      tion. You must learn how to show     their desires.
+                                      yourself worthy.
+
+                                        SPECIAL RULES                        SPECIAL RULES
+                                        No special rules.                    When you build a structure,
+                                                                             you may pay 2 Industry
+                                                                             to add a cube to this card.
+                                                                             Earn 1 VP per cube.
+
+
+
+                                         11           13           15         13           15           17
+
+
+I.II        RISE OF THE EMPIRE        I.III       RISE OF THE EMPIRE       I.III       RISE OF THE EMPIRE
+
+DICTATOR                              EMPEROR                              DICTATOR
+You solicit trades and introduce      The emissaries report that jeal-     The weight that rests on your
+new taxes to get out of the crisis.   ousy of neighboring nations has      shoulders is immense, but you do
+Nevertheless, the revolt continues    pushed them to plot against The      not carry it alone. The architec-
+to roar.                              Empire. Garrisons at the borders     ture, history and culture of the
+                                      are ready for a fight.               ancients accompany you.
+
+  SPECIAL RULES                         SPECIAL RULES                        SPECIAL RULES
+  Start the game with one               Each invasion repelled by            Start the game with a monu-
+  extra resource of each type.          paying    Military yields            ment of your choice already
+                                        1 VP. If all are repelled,           completed.
+                                        gain an additional VP.
+
+
+
+
+   13           15           17          15           17           19         15           17           19
+
+
+I.III       RISE OF THE EMPIRE        I.IV        RISE OF THE EMPIRE       I.IV        RISE OF THE EMPIRE
+
+TYRANT                                EMPEROR                              DICTATOR
+The situation worsens. The senate     All signs point to you becoming      Events have brought you to a
+decides to seize the goods of pa-     the greatest Roman emperor in        crossroads. On one side, the fu-
+tricians to maintain their living     history. Now is the time to estab-   ture of the Republic. On the other,
+standards. New riots break out        lish your legacy.                    your destiny as supreme leader of
+throughout the city.                                                       the civilized world.
+
+  SPECIAL RULES                         SPECIAL RULES                        SPECIAL RULES
+  Start the game with the               Before starting the game,            Each completed monument
+  Mining Colony already built.          sort the cards in the deck           yields 2 additional VP at
+                                        into the order of your choice.       the end of the game.
+
+
+
+
+   15           17           19          17           19           21         17           19           21
+I.II                      EMPEROR    I.I                      EMPEROR
+
+  VICTORY                             VICTORY
+  The ordinary man is demand-         The beginning is a moment
+  ing with others. But the excep-     of extreme delicacy. You have
+  tional man is demanding with        shown prudence and wisdom.
+  himself. Let’s hope you’re not      You have worked for the great-
+  blinded by power.                   ness of The Empire.
+
+           III EMPEROR                          II EMPEROR
+
+  DEFEAT                              DEFEAT
+  As the patricians fulminate,        Some voices are already raised
+  some senators rush into the         to the question of your ances-
+  breach to suggest, quite inno-      try. It is advisable to put an
+  cently, new modes of govern-        end to these slanders.
+  ment.
+
+           III DICTATOR                         II DICTATOR
+
+
+
+I.III                    DICTATOR   I.III                     EMPEROR   I.II                     DICTATOR
+
+  VICTORY                             VICTORY                             VICTORY
+  You have honored the memory         Si Vis Pacem, Para Bellum,          Plebian efforts have not been
+  of your ancestors by building       they say. Indeed, you knew          wasted. Every citizen knows
+  brilliantly on their past ac-       how to prepare the war that         when they hear of your suc-
+  complishments. Now it’s time        would ensure peace in The           cess, they have participated in
+  for your comeback.                  Empire. The plebs are grateful.     the glory of The Empire.
+
+           IV EMPEROR                           IV EMPEROR                         III EMPEROR
+
+  DEFEAT                              DEFEAT                              DEFEAT
+  The looks on the faces of the       The empire has held, but not        As rioters flood the streets, you
+  generals and senators you           everyone is willing to accept       see fit to show humility. This
+  meet indicate a growing acri-       the price. You are forced to        clever maneuver avoids a fatal
+  mony. It is time for caution.       assert a military emergency to      bloodbath.
+                                      stay in power.
+
+            IV TYRANT                           IV DICTATOR                         III TYRANT
+
+
+
+I.IV                     DICTATOR   I.IV                      EMPEROR   I.III                     TYRANT
+
+  VICTORY                             VICTORY                             VICTORY
+  Despite moments of doubt, you       The ordeals you went through        These unjust expropriations
+  managed to hold onto power.         seemed as impossible as the         allowed you at least to feed the
+  The last decades of your reign      twelve labors of Hercules. Yet,     plebs and guarantee security
+  were spent in peace. History        like the demigod of legend, you     in the streets and near the bor-
+  will remember you as a wise         overcame them. Your name            ders. You were fortunate.
+  and just leader.                    now shines in the firmament.
+            VICTORY                        OVERWHELMING VICTORY                    IV DICTATOR
+
+  DEFEAT                              DEFEAT                              DEFEAT
+  With you, the Roman Empire          History will remember your          “Cui bono?” shout the citi-
+  gave way to a new Republic.         name as one of the greatest         zens gathered in front of your
+  More ambitious. More promis-        conquerors in history. Gen-         palace. The population seems
+  ing. You were not reproached,       erations will speak of your         to hold you responsible.
+  but the time has come for you       accomplishments.
+  to retire.
+             DEFEAT                           NARROW DEFEAT                         IV TYRANT
+I.IV        RISE OF THE EMPIRE                                                II.I       FALL OF THE EMPIRE
+
+TYRANT                                                                       CRISIS
+Your enemies are at the city gates.                                          Alpsbreakers. Nordhelms. The
+The Empire, the last bastion                                                 Horde. The Hellenarchy. Khemex
+against barbarism, must contin-                                              Prime. All are threatening our
+ue to be the light of the civilized                                          borders.
+world at all costs.
+
+   SPECIAL RULES                                                                SPECIAL RULES
+  Each location yields 2 VP                                                    Start with 3 controlled loca-
+  instead of 1 at the end of the                                               tions of your choice. Each
+  game. If you lose a loca-                                                    invasion is resolved twice.
+  tion, you lose the game.                                                     The RSS Mars 1 cancels only
+                                                                               1 of the 2 invasions.
+
+
+    17          19          21                                                   14         16          18
+
+
+II.II      FALL OF THE EMPIRE         II.II       FALL OF THE EMPIRE         II.III      FALL OF THE EMPIRE
+
+LUDEM ET CIRCENSES                    INFLATION                              PLUNDER OF THE CAPITAL
+The plebeians demand the organ-       Prices are skyrocketing. Through-      Your enemies rush in, storming
+ization of new circus games. Fail-    out the city, workers demand           every street. Any Roman fit to
+ing to heed them would increase       more money or they will soon           carry a weapon must take part in
+the risk of an uprising.              turn against you.                      the battle.
+
+
+
+   SPECIAL RULES                        SPECIAL RULES                           SPECIAL RULES
+  When you play an RSS Mars             Before each invasion, pay 2            During each invasion,
+  1 card, instead of building           resources of your choice for           remove a cube from a mon-
+  it, you may pay 3 resources           each built structure. You lose         ument. This effect can’t be
+  (any combination) to add 1
+  cube to this card. -2 VP              if you can’t. The RSS Mars 1           cancelled by the RSS Mars
+  if no cubes on this card;             can’t cancel this effect.              1. If you can’t remove a
+  +2 VP if at least 2 cubes.                                                   cube, you lose.
+
+    12          14          16           12            14          16            10         12          14
+
+
+II.III     FALL OF THE EMPIRE         II.IV       FALL OF THE EMPIRE         II.IV       FALL OF THE EMPIRE
+
+POVERTY                               DECAY                                  CORRUPTION
+The streets are crowded with          The sun sets over Rome. Its hour       Often, too much wealth attracts
+beggars. A city once of wealth and    of glory now belongs to the past.      greed. Our leaders, once proud
+industry now weeps as its citizens    Or so the scribes are saying. What     warriors, have given way to the
+lie in want.                          will be left of it, apart from a few   power-hungry and corrupt.
+                                      vestiges?
+
+   SPECIAL RULES                        SPECIAL RULES                           SPECIAL RULES
+  Before setup, randomly                Each monument is worth                 When you play a Call for
+  choose 2 action cards and             2 less VP.                             Tribute card, you may also
+  return them to the box (you                                                  pay 2    Science or 1
+                                                                               Military to add a cube to
+  may look at them).                                                           this card. If this card has
+                                                                               fewer than 3 cubes at game
+                                                                               end, you lose.
+
+    10          12          14            8            10          12                8      10          12
+II.I                        CRISIS                                         I.IV                           TYRANT
+
+  VICTORY                                                                     VICTORY
+  Many neighboring nations                                                    It is at the edge of the the precipice
+  dream of seizing our wealth.                                                that great wills are truly tested. At
+  The citizens, unaware of the                                                a time when everyone else was de-
+  danger, only think of games.                                                spairing, you were able to raise your
+                                                                              head and focus on the essential. The
+                                                                              Empire is saved.
+        II LUDEM ET CIRCENSES                                                        NARROW VICTORY
+
+  DEFEAT                                                                      DEFEAT
+  The incessant raids by our                                                  No civilization is eternal. Even
+  enemies force us to pay mer-                                                marble crumbles with time.
+  cenaries again and again. It                                                The Empire will have domi-
+  is bringing our economy to its                                              nated the world, but the wheel
+  knees.                                                                      of history turns. You have
+                                                                              been forgotten.
+            II INFLATION                                                           OVERWHELMING DEFEAT
+
+
+
+II.III PLUNDER OF THE CAPITAL         II.II                   INFLATION    II.II        LUDEM ET CIRCENSES
+
+  VICTORY                               VICTORY                               VICTORY
+  You’ve repelled enemy forces          You overcame the crisis. But          You put on the most impres-
+  once again. But how long can          while you were busy with do-          sive shows in the Empire’s
+  we keep this up? Will weari-          mestic problems, enemy forces         history. But while the people
+  ness not overtake us?                 joined to invade The Empire           rejoice, enemy nations have
+                                        by surprise.                          joined forces to attack.
+
+              IV DECAY                  III THE PLUNDER OF THE CAPITAL       III THE PLUNDER OF THE CAPITAL
+
+  DEFEAT                                DEFEAT                                DEFEAT
+  Rome has been plundered.              You’ve failed to control infla-       The circus games not only
+  Like jackals, vile politicians        tion. Both the crowd and the          disappointed the crowds, they
+  hope to take advantage of the         generals are calling for your         drained the public treasury.
+  chaos.                                head. All is lost.                    Unemployment spreads and
+                                                                              debts stack up.
+
+           IV CORRUPTION                      OVERWHELMING DEFEAT                        III POVERTY
+
+
+
+II.IV                CORRUPTION       II.IV                       DECAY    II.III                        POVERTY
+
+  VICTORY                               VICTORY                               VICTORY
+  It is with regret that you’ve         The Eternal Empire will leave         People found work again.
+  devoted your energies to main-        its mark on the history of            Famine was averted. The Em-
+  tining power. No doubt with           mankind forever. But are its          pire has regained its splendor
+  different circumstances you           greatest millenia behind it, or       for a time. But how many
+  would stand among the great           still to come?                        generations will it yet inspire?
+  ancestral Emperors.
+          NARROW VICTORY                            VICTORY                               IV DECAY
+
+  DEFEAT                                DEFEAT                                DEFEAT
+  Politics and power are the            Time takes all. It was pre-           Famine spreads. The popula-
+  games of fools. Some win. Oth-        sumptuous to believe in our           tion rises up against you. Con-
+  ers lose. As for you, loss is the     eternity. Our civilization is in      spirators no longer hesitate to
+  only thing for which you will         danger of being forgotten, like       come for you. You have failed.
+  be remembered.                        the many great empires who
+                                        came before.
+          NARROW DEFEAT                          IV CORRUPTION                             DEFEAT
+                                       III.I      A DESPERATE JOURNEY        III.II     A DESPERATE JOURNEY
+
+                                        THE DEPARTURE                         THE NEW HOPE
+                                        Decades of hubris and civil war       Our scientists have discovered a dis-
+                                        have led to the unthinkable: the      tant planet,which they have named
+                                        destruction of our home planet.       Constantius. It could prove to be
+                                        We must leave it immediately--or      habitable and become a new home
+                                        go down with it.                      for us as we wander through space,
+                                                                              from one planet to another.
+                                          SPECIAL RULES                         SPECIAL RULES
+                                         You must take off to another           You must take off at least
+                                         planet at least once, or you           twice, or you lose.
+                                         lose. Gain 2 VP for each               Gain 2 VP for each
+                                         landed probe.                          landed probe.
+
+
+
+                                            6|          8|           10|          6|           8|           10|
+                                           9|12        11|14        13|16        9|12         11|14        13|16
+
+
+
+III.III     A DESPERATE JOURNEY        III.IV     A DESPERATE JOURNEY
+
+ THE JOURNEY                            THE ARRIVAL
+ The readings taken on Constanti-       We are nearing our destination.
+ us are extremely positive. Hope is     The childrens’ eyes light up as
+ restored, even though our leaders      they gaze through the windows
+ fear we may not have sufficient        at the blue shape in the middle of
+ resources to make it there.            space, synonymous with a new
+                                        beginning.
+   SPECIAL RULES                          SPECIAL RULES
+   You must take off at least             You must take off to
+   twice, or you lose.                    Constantius, or you lose.
+   Gain 1 VP for each                     Gain 1 VP for each
+    landed probe.                         landed probe.
+
+
+
+     6|          8|           10|
+    9|12        11|14        13|16         14           16          18
+
+
+ IV.I                 CONSTANTIUS      IV.II               CONSTANTIUS       IV.III               CONSTANTIUS
+
+ YEAR 1                                 YEAR 2                                YEAR 3
+ To your surprise, the planet is not    Our reserves are running low.         The art forms proposed by the
+ uninhabited! Populations called        Food has become a problem in a        Trusks resonate with our own
+ the Trusks were not detected by        new world where we recognize          vestiges. Could it be possible that
+ the probes, but scattered villages
+ are home to Truskan tribes. It         neither animals nor plants. Let’s     we have common origins, even
+ would be good to find out what         hope the Trusks can help us.          though we are so far apart?
+ these beings are like.
+   SPECIAL RULES                          SPECIAL RULES                         SPECIAL RULES
+   Start with one random                 Choose 2 monument cards               Choose 3 monument cards
+   monument action card in               from those unlocked in the            from those unlocked in the
+   your deck. Put the remain-            previous scenario to start in         previous scenario to start in
+                                         your action card deck. Put the        your action card deck. Put the
+   ing monument cards in the             remaining monument cards              remaining monument cards
+   Lock Deck. At the end of the          in the Lock Deck. At the end of       in the Lock Deck. At the end of
+   game, lose 1 VP for each              the game, lose 1     VP for each      the game, lose 1     VP for each
+   card still in the Lock Deck.          card still in the Lock Deck.          card still in the Lock Deck.
+
+        5         7              9          7             9           11          10            12           14
+        7         9             11          9            11           13          12            14           16
+III.II                            THE NEW HOPE              III.I                      THE DEPARTURE
+
+
+                                                                LOW VP
+       LOW VP
+                                   MIDDLE VP
+                                                               NEXT GAME:
+      NEXT GAME:                                                                            MIDDLE VP
+                                  IN MISSION 4:                For each throw, the first
+      Start with 5 additional                                  3 trajectory corrections    IN MISSION 4:
+                                  Add a cube to any
+                                                                                           Each monument is
+      resources of your choice.                                are free of cost.
+                                  monument during setup.                                   worth +1 VP.
+
+   HIGH VP                                                     HIGH VP
+  IN MISSION 4:                                               IN MISSION 4:
+  Select 9 cards to place on top                              Start with the Quantum
+  of the deck at setup.                                       Barterdeck already built.
+
+
+
+
+                                                            III.IV                           THE ARRIVAL        III.III                            THE JOURNEY
+
+                                                              VICTORY
+                                                              The challenge was daunting, but                            LOW VP                          VP
+                                                              your people could count on your
+
+                                                                                                                        NEXT GAME:
+                                                              infallibility throughout the journey.
+                                                                                                                                                  MIDDLE VP
+                                                              Now, on the soil of an unknown and
+                                                              hostile planet, you are responsible
+                                                                                                                        Start with 3 probes on
+                                                              for ensuring the new prosperity of
+                                                              the Roman civilization.                                                            IN MISSION 4:
+                                                                                                                        Constantius.
+                                                                             VICTORY
+                                                                                                                                                 Probes now earn 2
+                                                                                                                                                 instead of 1.
+                                                              DEFEAT
+                                                              Years of interstellar travel, hard-
+                                                              ships and tensions took their toll on
+                                                              the cohesion of your empire. Upon                    HIGH VP
+                                                              arrival, the population split into
+                                                              independent factions, and with the                  IN MISSION 4:
+                                                              extreme conditions of Constantius,                  Start with the structure of
+                                                              none were able to survive.                          your choice already built.
+                                                                            DEFEAT
+
+
+
+IV.III                                             YEAR 3   IV.II                                      YEAR 2    IV.I                                         YEAR 1
+
+   LOW VP                                                     LOW VP                                               LOW VP
+   The Trusks are reluctant to                                The Trusks agreed to give us                         After a few skirmishes, the
+   show us their creations, let                               food, more out of charity than                       Trusks have at least agreed
+   alone explain their meaning                                solidarity. We must continue                         to lay down their arms and
+   and culture to us. With them,                              to fend for ourselves, risking                       welcome our emissaries.
+   we always feel like we are                                 poisoning ourselves with un-                         Let us hope that we can estab-
+                                                              known species. So, what about                        lish strong ties between our
+   desecrating a sacred place,                                this tree with purple hook-
+   wherever it may be.                                        shaped thorns?                                       civilizations.
+
+   HIGH VP                                                    HIGH VP                                              HIGH VP
+   The Trusks seem to worship                                 The Trusks have agreed to                            The Trusks were impressed by
+   deities that appear strange at                             share their knowledge of                             our customs, our inventiveness
+   first glance, but upon reflection,                         Constantius’s flora and fauna.                       and our organization. They
+   we can find similarities between                           There is a diversity here                            are technologically advanced,
+   them and the gods of the                                   that is unimaginable at first                        and we would gain a lot from
+   Ancestors. Could this be a point                           glance, but delightful to the                        collaborating with them.
+   of connection?                                             knowledgeable eye.
+IV.IV              CONSTANTIUS                                           V.I            WAR OF ALL WARS
+
+YEAR 4                                                                   OLD FRIENDS
+Tensions are erupting among                                              War is upon us! We were not the
+the varous tribes between those                                          only nation to escape the dying
+who accept our laws and those                                            Earth. Our greatest rivals fol-
+who refuse to acknowledge them.                                          lowed us to Constantius and plan
+Order must be restored quickly,                                          to take it by force. Thus begins the
+                                                                         Empire’s last and greatest war.
+somehow.
+  SPECIAL RULES                                                            SPECIAL RULES
+ Choose 4 monument cards                                                   No special rules.
+ from those unlocked in the
+ previous scenario to start in
+ your action card deck. Put the
+ remaining monument cards
+ in the Lock Deck. At the end of
+ the game, lose 1     VP for each
+ card still in the Lock Deck.
+
+    14          16           18
+    16          18           20                                             11            13          15
+
+
+V.II          WAR OF ALL WARS       V.II          WAR OF ALL WARS        V.III          WAR OF ALL WARS
+
+CUT OFF                             FROM THE ASHES                       STRETCHED THIN
+Enemy forces have severed           Devastating attacks have crippled    Mismanagement from leadership
+access to critical outposts con-    your infrastructure. But you see     and competing priorities threaten
+taining warehousing and food        an opportunity to repurpose and      to undermine the Empire’s victory.
+storage. You will need to make      rebuild from the debris.             You must finish what you started.
+due for now.
+
+  SPECIAL RULES                       SPECIAL RULES                        SPECIAL RULES
+  Start with 2 extra resources        Working on a monument                Start with all monuments
+  of your choice. Your maxi-          actions cost 1 less resource         half constructed. Working
+  mum limit of each resource          of your choice. Monuments            on a monument costs +2
+  is 6 instead of 9.                  provide half their VP,               Industry. -3 VP for every
+                                      rounded up.                          incomplete monument at
+                                                                           game end.
+
+   13           15          17         13           15           17         15            17          19
+
+
+V.III         WAR OF ALL WARS       V.III         WAR OF ALL WARS        V.IV           WAR OF ALL WARS
+
+MISDIRECTION                        DESPERATION                          ETERNAL EMPIRE
+Your enemies continuously change    Your enemies steal and use the       Your foes unleashed the Empire
+tactics. You are forced to adapt    empire’s own technology against      of old, a wrath which once again
+quickly with new strategies.        you. This conflict has turned into   cannot be bottled. Enough games.
+                                    a fight for survival.                You set your sights on galactic
+                                                                         dominance.
+
+  SPECIAL RULES                       SPECIAL RULES                        SPECIAL RULES
+  Built structures provide +1         Choose 1 monument to start           You must control at least
+     VP. At the end of round          the game built. At game              4 locations at game end to
+  X, the resource you have            end, choose 1 built monu-            win. Winning this scenar-
+  the most of must be Y, or           ment to subtract its VP              io gives you +7 reputation
+  you lose: 1 Science, 2              instead of adding it.                instead of +4.
+  Military, 3 Industry.
+
+   15           17          19         15           17           19         17            19          21
+                                                                           DEFEAT
+V.I                 OLD FRIENDS
+                                                                          Your resorting to the aggressive strate-
+                                                                          gies of old has united the Truskan tribes
+                                                                          against you. All hope of a peaceful coex-
+  VICTORY                                                                 istence is lost. Perhaps diplomacy would
+  Your victory is short-lived.                                            have led to a better outcome. All this you
+                                                                          wonder as Truskan warriors work to
+  You get reports of a new                                                break down the door to your quarters.
+  foe attacking the Empire’s
+  outposts.                                                                VICTORY
+                                                                           Almost all of the rebels have
+                                                                           been captured and order has
+            II CUT OFF                                                     been restored. However, rela-
+                                                                           tions are unfortunately not as
+  DEFEAT                                                                   friendly as we had hoped when
+                                                                           we arrived a few years ago.
+  You have no time to rally
+  after the defeat. Unexpected                                             OVERWHELMING VICTORY
+  enemy advances threaten your                                             The Trusks have regained their
+  infrastructure.                                                          cohesion, and although under
+                                                                           our aegis, I feel that we can
+                                                                           work hand in hand. Perhaps
+        II FROM THE ASHES                                                  one day Rome will have a Trus-
+                                                                           kan emperor? Who knows?
+
+
+V.III          STRETCHED THIN        V.II            FROM THE ASHES       V.II                           CUT OFF
+
+  VICTORY                              VICTORY                              VICTORY
+  Only the strongest of your           You sense new threats on the         With battles raging on every
+  enemies remains: the Gallax          horizon. You must be ready for       front, you delegate many of
+  Hordes. Rome’s greatest battle       anything. You begin drafting         your duties to your advisors.
+  lies ahead. A smile creeps onto      contingency plans.                   Hopefully they don’t let you
+  your face. You’ve been waiting                                            down.
+  your whole life for this moment.
+        IV ETERNAL EMPIRE                      III MISDIRECTION                   III STRETCHED THIN
+
+  DEFEAT                               DEFEAT                               DEFEAT
+  Reports of the Gallax Hordes at      Bad turns to worse as you            With this setback, it’s critical
+  your borders. All the years of       learn of the discovery of enemy      to gain an upperhand
+  planning and careful strategy,       spies in many of your labs.          somewhere. You begin work
+  and it will end with simple,                                              on new technologies.
+  brutal combat.
+      IV STRENGTH OF LEGIONS                   III DESPERATION                      III DESPERATION
+
+
+
+V.IV           ETERNAL EMPIRE        V.III              DESPERATION       V.III                 MISDIRECTION
+
+  VICTORY                              VICTORY                              VICTORY
+  The masses shout of fate             The Gallax Hordes are the last       The Gallax Hordes approach,
+  favoring the Empire, but you         remaining foe. They are itching      but Destiny herself wouldn’t
+  know this is your victory. You       for a fight, and you couldn’t be     dare hinder you now. It’s
+  lift your eyes to the galaxy’s       more eager to give them one.         time to end this war--in grand
+  horizon. Perhaps there is more                                            fashion.
+  out there to rule.
+      OVERWHELMING VICTORY                  IV STRENGTH OF LEGIONS                 IV ETERNAL EMPIRE
+
+  DEFEAT                               DEFEAT                               DEFEAT
+  So close. You could see the          With enemy forces breaking           The Gallax Hordes are
+  victory before the Hordes            through the gates, you know          mobilizing. You begin
+  made their final effort. How,        this is the end. Millennia of        construction of a massive
+  you wonder, will you be              dominance ends under your            Artillery project to prepare for
+  remembered now?                      leadership.                          the storm.
+         NARROW DEFEAT                      OVERWHELMING DEFEAT                      IV FINAL STAND
+V.IV          WAR OF ALL WARS          V.IV          WAR OF ALL WARS
+
+STRENGTH OF LEGIONS                    FINAL STAND
+The Ancestors brought you this far,    As the Hordes close in on every
+but you must forge your own path       side, you prepare for a last
+now. You prepare the legions for a     desperate fight with your back
+massive offensive to take control of   against the wall. Perhaps even
+the entire galaxy.                     now, Rome can seek victory.
+
+  SPECIAL RULES                          SPECIAL RULES
+  Building the second stage of           Start with the Artillery
+  a monument costs +1 of the             monument already built.
+  action’s rightmost resource            Hordes are -2 VP each
+  cost. Gain +1 Industry                 instead of -1 at game end.
+  when you defeat a horde
+  with a March action option.
+
+   17           19           21           17           19           21
+V.IV               FINAL STAND     V.IV    STRENGTH OF LEGIONS
+
+ VICTORY                            VICTORY
+ Though it was not in a fashion     Victory! The legions dispel
+ as glorious as you’d hoped,        the last Gallaxian forces. At
+ Rome survives. Your foes are       last, Rome takes its place as
+ defeated. It’s time to rebuild.    the galactic Empire. In your
+                                    remaining decades, you lead
+                                    the people in prosperity.
+       NARROW VICTORY                          VICTORY
+
+ DEFEAT                             DEFEAT
+ So much for the glory of Rome.     Record of Rome’s glorious
+ Though the odds were stacked       history will no doubt be
+ against you, the shame of          modified or erased. Valiant
+ defeat is the same.                though your deeds, they mean
+                                    nothing in the end.
+   OVERWHELMING DEFEAT                         DEFEAT
+                                                                            CALCULIGULA
+
+
+
+
+                                                                      LUDICROUS IDEAS: Each
+                                                                      monument with only 1 cube
+                                                                      grants 2 VP.
+                                                                      WASTED RESOURCES: After
+                                                                      the first and second enemy
+                                                                      invasions, choose 2 resource
+                                                                      types to set to 0.
+
+      COMMODORUS                             STARJAN
+
+
+
+
+HERCULES: Whenever a
+resource type is on 0 at the       EXPANSIONISM: Each controlled
+beginning of your turn, gain 1     location grants 1 additional VP.
+resource of this type.
+PLAGUE: You cannot build
+structures. At the start of your   UPRISINGS: Each conquest
+game, put all structure cards in   costs 2 additional Military.
+the discard pile.
+      KALLAX CALLA
+
+
+
+
+EDICT OF KALLAX CALLA: Add
+the special action card, Edict of
+Kallax Calla, to the deck.
+
+CRUEL LEADER: Lose 2       VP at
+the end of the game.
+
+
+                                          VOIDSPASIAN                        CYBERIUS
+
+
+
+
+                                    MONUMENT BUILDER:               TREASON TRIALS: When you play
+                                    Each monument grants            an action card to gain resources,
+                                                                    you may remove the card from the
+                                    1 additional VP.                game to gain +1 of its resources.
+                                                                    FROM CAPRI: The third card
+                                    ROME IN ASHES: Start the game   you draw each turn stays face
+                                    with all resources set to 0.    down. You can flip it face up by
+                                                                    paying 1 resource.
+                                                        Conquer a location                 Build a sructure from            HYPERCOMM
+                                             SHIELD
+                                                                             HANGAR BAY
+                Gain 2 of each resource.   GENERATORS       for free.                                                         ARRAY
+                                                                                          the discard pile for free.
+              2
+              3
+                                                                                                                                        ALPSBREAKER ARMADA
+      THE DAWNWARD CROWN                                                                                               KHEMEX PRIME
+                                                                              Khemex Prime has
+                                                                              a base of 5 during
+      PEACE                                                                   scoring. Location effects
+   AGREEMENTS                                                                 are active while Khemex
+                                                                              controls the location.
+                                                                              A. KHEMEX has +O .
+When resolving an                                                                Your conquest
+invasion, reduce the
+                                             4                                   actions cost +l .
+Military    cost by X.                                                        B. KHEMEX has +2
+                                                                                 Invasions cost you
+X is equal to twice the                                                          +1    and remove +1
+total number of Gain                                                             control cube.
+resources on peace
+                                                                              C. KHEMEX has +7 .
+agreement cards.
+                                                                                 You gain 1    and
+                                                                                 1   for free after
+Pay the “Gain” resources                                                         each invasion.
+of a peace agreement
+immediately when you                       10                                 D. KHEMEX has +2 .
+create it. Also pay the                                                          Choose 1 of your
+“Gain” resources of all                                                          Monuments to not
+already-active peace                                                             provde any .
+agreements at the begin-                                                      E. KHEMEX has +2
+ning of rounds 2 and 3                                                           Structures cost you
+                                                                                 +1 to build
+                                                                              F. KHEMEX has +2
+                                                                                 for every location
+                                                                                 you control. You have
+                                                                                 +2 for every com-
+                                           17                                    pleted Monument.
+KHEMEX PRIME
+The commanding general of Khemex Prime shows he has
+a genius-level mastery of the art of war. He uses every inch
+of ground he controls to gain a tactical advantage. You must
+strategically take back control of the most crucial locations to
+secure your victory in this battle of wits.                                                                                                                                  Galaxia Nova (A)
+SPECIAL RULES
+On the other side of this card, you will find location effects asso-
+ciated with the 6 locations labeled A through F. While Khemex
+Prime controls a given location, its effect is active. Some parts of
+location effects give Khemex extra VP at the end of the game.
+Other parts of these effects may affect the game during play, such
+as increasing your costs for doing certain actions.
+                                                                       Galaxia Nova (B)
+                                                                                                          The formidable Alpsbreakers have learned their lesson from
+                                                                                                                                                                             SPECIAL RULES
+
+When you conquer a location, its location effect is immediately
+considered inactive. It remains inactive unless you lose control of
+that location (something causes your control cube to be removed,
+                                                                                                          history. This time, they are being patient. Using their superior
+such as an invasion).
+                                                                                                                                                                             Add the 3 Strike Mission action cards to the deck. Note that some
+At the end of the game, during scoring, Khemex Prime has 5
+                                                                                                          fleet, the Armada has surrounded the planet with a blockade.
+VP plus any additional      VP it gets from active location effects.
+You must score more points than Khemex Prime to win the game.
+                                                                                                                                                                             Strike Missions require you to remove 1 or more cubes from any
+                                                                                                          Vital interplanetary trade has been completely stymied. You
+                                                                                                          initiate a series of surgical strikes to take out the Armada’s     already built on monuments. The invader mat includes 3 Strike
+                                                                                          ALPSBREAKER ARMADA
+
+
+
+
+THE DAWNWARD CROWN
+                                                                                                                                                                             Points with 1 cube space each. When you play one of these cards,
+                                                                                                          most crucial systems. You will need to disassemble and repur-
+You request an audience with the Dawnward emissaries and
+they agree to be open to peace treaties. That is, if the price is
+                                                                                                          pose many of the Empire’s monuments to create the technol-
+right. This peace is just a new form of war -- one of economics
+                                                                                                                                                                             pay the printed cost and place 1 cube on any 1 empty Strike Point
+and diplomacy -- which could prove just as fatal to the Empire.
+But at this point, it is your best hope.
+                                                                                                          ogy and supplies needed for these missions. But if successful,
+                                                                                                                                                                             space. Then, gain the one-time reward. You must complete all 3
+SPECIAL RULES
+Up to 3 times per round, you may enact 1 peace agreement on your
+                                                                                                          you will show these arrogant Alpsbreakers how history can
+turn. To do so, at the end of your turn, choose one of the action
+                                                                                                                                                                             Strike Points to be eligible to win the game.
+
+cards you did not resolve to be a peace agreement. Immediately
+                                                                                                          repeat itself.
+pay its “Gain” resources and place it above the invasion mat as an
+active peace agreement. At the beginning of rounds 2 and 3, you
+                                                                       Galaxia Nova (A)
+
+
+must pay the Gain resources of all active peace agreements.
+When resolving invasions, reduce the          Military cost by X,
+where X is twice the total number of “Gain” resource icons on
+peace agreements. On turns you did not enact a peace agreement,
+you may disband a peace agreement by putting the card into the
+action discard pile.
+The RSS Mars 1 does not let you ignore invasions.
+                THE GALLAX HORDES
+When you take a Conquest action, choose up to
+2 of the following options. You may choose the
+same option twice.                                                                                                                                                                                             Discard for no effect
+                                                                                                                                                                Gain printed resources, lose 1
+CONQUEST:
+                                                                                                                                   Spend printed
+Per normal game rules. You are allowed to                                                                                                                                                                  (remember that Skirmishes
+conquer a location that has a horde.
+                                                                                                                     FIGHT       Military    cost.       RAID
+FORTIFY:
+                                                                                                                                                                controlled location, and place   REGROUP
+Pay X+1 Industry, where X is the number
+                                                                                                                                                                                                           in the deck at game end are
+                                                    AEGIS HELLENARCHY
+
+of existing fortified locations. Then, choose
+an unfortified location (one control cube) and
+                                                                                                  SKIRMISH OPTIONS
+                                                                                                                             Place in Roman Victories.
+                                                                             ROMAN VICTORIES
+                                                                                                                                                                                                                                         HELLENARCHY VICTORIES
+
+place a second control cube to fortify it. Hordes
+                                                                                                                                                                  in Hellenarchy Victories.                   Hellenarchy Victories).
+do not destroy fortified locations, and you may
+mobilize Legions there.
+MOBILIZE:
+Pay X+1 Science, where X is the number
+of existing Legions (red cubes). Then, create a
+Legion in Rome or a fortified location. You may
+carry this out up to 2 times with this 1 Mobilize
+option, paying appropriate costs each time.
+MARCH:
+Pay as much Military as desired. Divide this
+amount as movement among your Legions.
+You may move each Legion a maximum of                                                                                                                                                                                                        5
+1 space per March option chosen. When a                                                                                                                                                2
+Legion moves into a space with a horde, the
+horde moves (see other side of this card).                                                                                                                                                                        2
+When a horde moves into a space that already                                                                                                                                                                      2
+has a horde, destroy 1 of the hordes.
+At the end of each round, advance all                                                      When you conquer                                         When you conquer a
+hordes towards Rome. At the end of                                                                                                                  location with a card
+rounds 1 and 2, spawn 1 horde in 4
+                                                                                           a captured card’s                                        to rescue, instead
+perimeter spaces of your choice.                                                           associated location,                                     of gaining 1 of the
+                                                                          CAPTURED         place the card on top                                    resource associated
+                                                                                           of your deck. It is                                      with the location
+                                                                                           considered rescued                                       itself, choose 1 of the
+                                                    NORDHELM ASCENDANCY
+
+                                                                            CARDS                                                                   “Gain” resources of
+                                                                                           and is yours for the                                     the rescued card to
+                                                                                           rest of the game.                                        gain instead.
+AEGIS HELLENARCHY
+This could hardly be called war. The cowardly Aegis Hellenar-
+chy forces refuse to fight head on. Frequent, smaller skirmish-
+es take the place of normal warfare. You wisely decide to pick
+your battles. You hope that when the dust settles, Rome has
+                                                                                                                 There are no normal invasions. Instead, you will deal with hordes. The map is divided into 13
+                                                                                                                                                                                                                     VP instead of +1.
+
+
+proven its dominance.
+                                                                                              Galaxia Nova (C)
+
+                                                                                                                 spaces. Rome is the center space. The 6 controllable locations surround it as normal. There are 6
+SPECIAL RULES
+There is no invasion phase at the end of the round. Shuffle the 7
+Skirmish cards into the action card deck. When you draw a Skir-                                                  perimeter (outer) locations beyond that. At setup, place 1 horde (yellow cube) in each perimeter
+mish, stop drawing and deal with the Skirmish, choosing one of
+the 3 options for dealing with it (printed on the other side of this                                             space, and choose 3 locations to place a control cube (white). These are considered controlled as
+                                                                                                                 if you had conquered them.
+card). You must either Fight, Raid or Regroup. Choosing to Fight
+                                                                                                                                                                                                                     VP per horde. Fortified locations provide +3
+
+
+
+
+                                                                       Galaxia Nova (A)
+
+
+is the only way to get Roman Victories. At the end of the game,
+remove all Skirmish cards remaining in the action card discard                                                   Play with the special Artillery monument in place of the RSS Mars I (when you build the first
+pile and add them to Hellenarchy Victories.
+Sum the Dominance values of the Skirmish cards in Roman Vic-                                                     stage of this monument, immediately destroy any 1 horde. Once fully built, you may destroy any
+tories to find your Dominance total. Do the same for Hellenarchy                                                 2 hordes once per round during the action phase, including the round it became built). Swap out
+Victories. Rome must have more Dominance than the Hellenar-
+chy, or you lose the game.                                                                                       the RSS Mars 1 action cards for the two Artillery action cards.
+                                                                                                                 Add the 2 extra Conquest cards to the action deck.
+                                                                                                                 At the end of each round, advance all horde cubes 1 space toward Rome, beginning with hordes
+                                                                                                                 in the inner spaces. Then, at the end of rounds 1 and 2, spawn 1 new horde in 4 outer locations
+                                                                                          THE GALLAX HORDES
+
+
+
+
+                                                                                                                 of your choice.
+NORDHELM ASCENDANCY
+The Nordhelm Ascendancy captured some of your high-                                                              If a horde moves into a space with 1 control cube but no Legions, destroy the horde and the
+                                                                                                                                                                                                                     VP per Legion and -1
+
+
+
+est-ranking officials and stole irreplaceable technologies. You                                                  control cube. If a horde moves into Rome, destroy the horde and choose a monument cube or a
+must reacquire them if the Empire is to stand a chance in this
+war. Regardless, Rome’s honor demands retribution.                                                               sructure to destroy (if you can’t, you lose the game). If a horde moves into a space with a Roman
+SPECIAL RULES                                                                                                    Legion (red cube), destroy the horde and Legion. If a horde moves into a space with another
+                                                                                                                 horde, destroy one of the hordes. When a Legion moves into a space with a horde: if an inner
+During setup, remove all Conquest cards from the action deck.
+Shuffle the remaining cards and select 4 at random, dealing them
+out face up in (or near) 4 locations of your choosing. These are                                                 space, move the horde to the corresponding perimeter space; if a perimeter space, choose to
+the captured cards. Then, shuffle all remaining action cards, in-
+                                                                                                                                                                                                                     Scoring: +2
+cluding the Conquest cards, to form your action deck as normal.                                                  move the horde clockwise or counterclockwise to a new perimeter space. When you defeat a
+                                                                                                                 horde with Legion movement or using Artillery, gain 1 Industry or 1 Science.
+                                                                       Constantius (A)
+
+
+Captured cards are out of play and unusable until they are res-
+cued. You rescue a captured card after you conquer its associ-
+ated location. When you do, immediately choose 1 of its “Gain”
+resources to gain (this happens instead of gaining the resource
+associated with the location itself). Then, place the rescued card
+on top of the action card deck.
+You must rescue all 4 cards before the game ends, or you lose.
+
