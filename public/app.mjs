@@ -3,6 +3,7 @@
 import { newGame, act, score, result, whyNot, gainOptions, payOptions, conquestCost, randomTiles, tileVP, STATE_VERSION } from "./engine/game.mjs";
 import { CARDS, MONUMENTS, MON_NAME, TILE_TEXT, MAPS, LEADERS, SCENARIOS, CAMPAIGNS, DIFFICULTY, RES, RES_NAME, INVASIONS } from "./engine/data.mjs";
 import { VERSION } from "./version.mjs";
+import { TUTORIAL_SETUP, TUTORIAL_SEED, SCRIPT, scriptStep, scriptNext } from "./tutorial.mjs";
 
 const $app = document.getElementById("app");
 const $sheet = document.getElementById("sheet");
@@ -13,7 +14,7 @@ const store = {
 
 let G = null; // game state
 let undo = null; // state to return to: the last point where hidden information was revealed
-const U = { screen: "home", sel: null, sheet: null, order: [], recorded: false };
+const U = { screen: "home", sel: null, sheet: null, order: [], recorded: false, tp: 0 };
 let prefs = store.get("prefs") || { map: "earth", leader: null, tiles: "basic", custom: {} };
 let camp = store.get("campaign") || {}; // {c1: {...}, c2: {...}}
 
@@ -54,19 +55,56 @@ function setState(next) {
   render();
 }
 function answer(id) {
-  try { setState(act(G, id)); } catch (e) { console.error(e); toast(e.message); }
+  try {
+    const onScript = G.tut != null;
+    const tut = scriptNext(G, id);
+    const next = act(G, id);
+    next.tut = tut;
+    U.tp = 0;
+    setState(next);
+    if (onScript && tut == null && !next.over) toast("You left the tutorial's path. Play on as you like.");
+  } catch (e) { console.error(e); toast(e.message); }
 }
 function tilesFor(mode, seed) {
   if (mode === "random") return randomTiles(seed);
   if (mode === "custom") return { ...prefs.custom };
   return {};
 }
-function startGame(setup) {
-  const seed = (Date.now() ^ (Math.random() * 1e9)) >>> 0;
+function startGame(setup, fixedSeed) {
+  const seed = fixedSeed ?? (Date.now() ^ (Math.random() * 1e9)) >>> 0;
   if (setup.tiles === undefined) setup.tiles = tilesFor(prefs.tiles, seed);
   undo = null; U.recorded = false; G = null;
   U.screen = "game";
-  setState(newGame(setup, seed));
+  U.tp = 0;
+  const g = newGame(setup, seed);
+  if (fixedSeed != null) g.tut = 0;
+  setState(g);
+}
+
+// ---------- tutorial coach ----------
+const rich = (t) => esc(t).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/\{(S|I|M|VP)\}/g, (m, k) => ICON[k]);
+function coachHtml() {
+  const step = G && scriptStep(G);
+  if (!step) return "";
+  const n = step.pages.length, i = Math.min(U.tp, n - 1), last = i === n - 1;
+  const nav = last ? (step.want ? "" : btn("Finish the tutorial", "tutend", "", "gold grow")) : btn("Next", "tutnext", "", "gold grow");
+  return `<div class="coach"><div class="chead"><span>Tutorial · step ${step.index + 1} of ${step.total}</span><span>${n > 1 ? `${i + 1} / ${n}` : ""}</span></div>
+    <p>${rich(step.pages[i].text)}</p>${nav ? `<div class="cnav">${i > 0 ? btn("Back", "tutback", "", "grow") : ""}${nav}</div>` : ""}</div>`;
+}
+// Point at what the coach is talking about, and at the tap a step asks for.
+function coachMarks() {
+  const step = G && U.screen === "game" && scriptStep(G);
+  if (!step) return;
+  const n = step.pages.length, i = Math.min(U.tp, n - 1);
+  const f = step.pages[i].focus && document.querySelector(step.pages[i].focus);
+  if (f) f.classList.add("tut-focus");
+  if (i < n - 1 || !step.want) return;
+  let el = null;
+  if (G.ask.kind === "play") {
+    const card = step.want.split(":")[1];
+    el = U.sel === card ? document.querySelector(`[data-act="answer"][data-id="${step.want}"]`) : document.querySelector(`[data-act="card"][data-id="${card}"]`);
+  } else el = document.querySelector(`[data-act="answer"][data-id="${step.want}"]`);
+  if (el) el.classList.add("tut-want");
 }
 // Record a finished scenario in its campaign, once.
 function finishGame() {
@@ -94,10 +132,10 @@ function home() {
   return `<div class="home">
     <div class="hero"><img src="img/c/back.webp" alt="Astra Imperium" draggable="false"></div>
     <div class="menu">
-      ${has ? btn("Continue", "continue", "", "gold wide", G.setup.scenario ? `Scenario ${SCENARIOS[G.setup.scenario].stage} · Act ${roman(G.round)}` : `Standard game · Act ${roman(G.round)}`) : ""}
+      ${has ? btn("Continue", "continue", "", "gold wide", G.setup.scenario ? `Scenario ${SCENARIOS[G.setup.scenario].stage} · Act ${roman(G.round)}` : `${G.tut != null ? "Tutorial" : "Standard game"} · Act ${roman(G.round)}`) : ""}
       ${btn("Standard game", "setup", "", has ? "wide" : "gold wide")}
       ${cbtn("c1")}${cbtn("c2")}
-      ${btn("How to play", "sheet", "rules", "wide ghost")}
+      <div class="acts">${btn("Guided tutorial", "tutorial", "", "grow ghost", "learn in one coached round")}${btn("How to play", "sheet", "rules", "grow ghost", "rules summary")}</div>
     </div>
     <div class="ver">Unofficial fan build · version ${VERSION}</div>
   </div>`;
@@ -273,7 +311,7 @@ function gameScreen() {
     </header>
     <div class="res">${RES.map((r) => `<div class="r ${r}">${ICON[r]}<b>${G.res[r]}</b><small>${RES_NAME[r]}</small></div>`).join("")}</div>
     <main class="mid">${mid}</main>
-    <footer class="foot">${actionBar()}</footer>
+    <footer class="foot">${coachHtml()}${actionBar()}</footer>
   </div>`;
 }
 function scoreLines(r) {
@@ -299,6 +337,7 @@ function endScreen() {
 // ---------- sheets ----------
 const RULES = `
 <h3>The game</h3>
+<p>New to the game? The <b>Guided tutorial</b> on the title screen coaches you through the first round.</p>
 <p>Three rounds (Acts). Each turn you draw 3 cards, play <b>one</b> of them for its Resources (top left of the card) or for its Action (bottom of the card), then discard all three. When the deck is empty at the start of a turn the round ends with an Invasion, then the discard pile is shuffled into a new deck.</p>
 <h3>Actions</h3>
 <p><b>Monument</b>: pay the cost to add a cube to that monument. Two cubes complete it; a completed monument scores and may give an ability.<br>
@@ -349,11 +388,20 @@ function toast(msg) {
 function render() {
   $app.innerHTML = { home, setup: setupScreen, campaign: campaignScreen, game: gameScreen }[U.screen]();
   renderSheet();
+  coachMarks();
 }
 
 // ---------- input ----------
 const ACTIONS = {
   home() { U.screen = "home"; U.sheet = null; },
+  tutorial() {
+    if (load() && !G.over && !confirm("Start the tutorial? It replaces your game in progress.")) return;
+    startGame({ ...TUTORIAL_SETUP }, TUTORIAL_SEED);
+    return true;
+  },
+  tutnext() { U.tp++; },
+  tutback() { U.tp = Math.max(0, U.tp - 1); },
+  tutend() { G.tut = null; U.tp = 0; },
   continue() { if (load()) U.screen = "game"; },
   setup() { U.screen = "setup"; },
   campaign(id) { U.camp = id; U.screen = "campaign"; U.sheet = null; },
@@ -375,7 +423,7 @@ const ACTIONS = {
   order(id) { const i = U.order.indexOf(id); if (i >= 0) U.order.splice(i, 1); else U.order.push(id); },
   orderrandom() { const rest = G.ask.options.map((o) => o.id).filter((x) => !U.order.includes(x)); while (rest.length) U.order.push(rest.splice(Math.floor(Math.random() * rest.length), 1)[0]); },
   orderdone() { answer([...U.order]); return true; },
-  undo() { if (undo) { G = undo; U.sel = null; U.order = []; } },
+  undo() { if (undo) { G = undo; U.sel = null; U.order = []; U.tp = 0; } },
   sheet(id) { U.sheet = id; },
   zoom(id) { U.sheet = "zoom:" + id; },
   zoomimg(id) { U.sheet = "img:" + id; },
@@ -391,7 +439,17 @@ document.addEventListener("click", (e) => {
 
 // ---------- start ----------
 const q = new URLSearchParams(location.search);
-if (q.has("new")) {
+if (q.has("tutorial")) {
+  // development: ?tutorial=1&follow=N plays the first N scripted steps, &tp=K (or last) opens page K
+  G = newGame({ ...TUTORIAL_SETUP }, TUTORIAL_SEED);
+  G.tut = 0;
+  for (let i = 0; i < +(q.get("follow") || 0); i++) { const w = SCRIPT[i].want; const t = scriptNext(G, w); G = act(G, w); G.tut = t; }
+  undo = G;
+  U.screen = "game";
+  const st = scriptStep(G);
+  if (q.has("tp") && st) U.tp = q.get("tp") === "last" ? st.pages.length - 1 : +q.get("tp");
+  if (q.has("sel")) U.sel = G.hand[+q.get("sel")];
+} else if (q.has("new")) {
   // development: ?new={"leader":"kallax"}&seed=3&auto=40&bot=greedy&until=invasion&sel=0&sheet=menu&click=sel;sel
   G = newGame(JSON.parse(q.get("new") || "{}"), +(q.get("seed") || 1));
   undo = G;
